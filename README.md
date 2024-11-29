@@ -34,19 +34,19 @@ run setup.bat
 run start.bat```
 
 ###💻 macOS / Linux
-git clone https://github.com/hackthematric/htm-toolkit.git
+```git clone https://github.com/hackthematric/htm-toolkit.git
 cd htm-toolkit
 python3 setup.py install
-python3 htm_toolkit.py
+python3 htm_toolkit.py```
 
 
 📱 Termux (Android)
-pkg update
+```pkg update
 pkg install git python
 git clone https://github.com/hackthematric/htm-toolkit.git
 cd htm-toolkit
 python setup.py install
-python htm_toolkit.py
+python htm_toolkit.py```
 
 
 ## ⛔️ Disclaimer
