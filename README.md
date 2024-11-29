@@ -1,4 +1,4 @@
-# ⚡️ htm_toolkit || [Join our Discord](https://discord.gg/mP6NvAgF2q)
+# ⚡️ htm_toolkit || [Join our Discord](https://discord.gg/W7uhTZKZxu)
 
 ![GitHub Stars](https://img.shields.io/github/stars/hackthematric/htm-toolkit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/hackthematric/htm-toolkit?style=social) ![GitHub Issues](https://img.shields.io/github/issues/hackthematric/htm-toolkit)
 ![GitHub License](https://img.shields.io/github/license/hackthematric/htm-toolkit) ![GitHub Last Commit](https://img.shields.io/github/last-commit/hackthematric/htm-toolkit)
