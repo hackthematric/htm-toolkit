@@ -33,3 +33,39 @@ cd htm-toolkit
 run setup.bat
 run start.bat```
 
+###💻 macOS / Linux
+git clone https://github.com/hackthematric/htm-toolkit.git
+cd htm-toolkit
+python3 setup.py install
+python3 htm_toolkit.py
+
+
+📱 Termux (Android)
+pkg update
+pkg install git python
+git clone https://github.com/hackthematric/htm-toolkit.git
+cd htm-toolkit
+python setup.py install
+python htm_toolkit.py
+
+
+## ⛔️ Disclaimer
+
+**🇫🇷 French**  
+Le projet **htm_toolkit** est conçu exclusivement pour une utilisation éthique et responsable. Toute utilisation illégale, malveillante ou non autorisée est strictement interdite. Les utilisateurs sont pleinement responsables de l'usage qu'ils font de cet outil. Le créateur de **htm_toolkit** ne saurait être tenu responsable de toute action contraire à ces principes ou en violation des lois en vigueur.
+
+**🇺🇲 English**  
+The **htm_toolkit** project is intended solely for ethical and responsible use. Any illegal, malicious, or unauthorized use is strictly prohibited. Users are entirely responsible for how they use this tool. The creators of **htm_toolkit** cannot be held accountable for any actions that violate these principles or applicable laws.
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**. For further details, please refer to the LICENSE file.
+
+---
+
+### Created by:
+- **Vishal Arora**  
+- **Atish Chand**
+
+
+
