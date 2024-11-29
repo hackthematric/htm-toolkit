@@ -33,6 +33,8 @@ cd htm-toolkit
 run setup.bat
 run start.bat```
 
+---
+
 ###💻 macOS / Linux
 ```git clone https://github.com/hackthematric/htm-toolkit.git
 cd htm-toolkit
