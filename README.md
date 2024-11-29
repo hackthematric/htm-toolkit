@@ -49,7 +49,7 @@ python3 htm-toolkit.py
 ```bash
 pkg update
 pkg install git python
-git clone https://github.com/Cyb3rtch/Cyb3rtech-Tool.git
+git clone https://github.com/hackthematric/htm-toolkit.git
 cd htm-toolkit
 python setup.py install
 python htm-toolkit.py
