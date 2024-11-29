@@ -1,6 +1,5 @@
-name_tool=Cyb3rtech Tool
-version_tool=1.0.5
+Tool_Name=htm_toolkit
+Version=1.1.1
 coding_tool=Python / Batch
-creator=Cyb3rtech
-discord_server=discord.gg/mP6NvAgF2q
-github_tool=github.com/Cyb3rtch/Cyb3rtech-Tool
+Creator=Hackthematrix[Vishal arora || Atish chand]
+https://github.com/hackthematric/htm-toolkit.git
