@@ -56,15 +56,15 @@ python htm-toolkit.py
 ```
 
 ## > ⛔️ Disclaimer
-*🇫🇷 : Cyb3rtech Tool est destiné à une utilisation éthique et responsable. Toute utilisation illégale, malveillante ou non autorisée est strictement interdite. Les utilisateurs sont entièrement responsables de l'usage qu'ils font de cet outil. Le créateur de Cyb3rtech Tool ne pourra être tenu responsable de toute action non conforme à ces principes ou à la législation en vigueur.*
+*🇫🇷 : Le projet **htm_toolkit Tool** est conçu exclusivement pour une utilisation éthique et responsable. Toute utilisation illégale, malveillante ou non autorisée est formellement interdite. Les utilisateurs sont entièrement responsables de l’usage qu'ils font de cet outil. Le créateur du **htm_toolkit Tool** ne pourra être tenu responsable de toute action non conforme à ces principes ou à la législation en vigueur.*
 
-*🇺🇲 : Cyb3rtech Tool is intended for ethical and responsible use. Any illegal, malicious, or unauthorized use is strictly prohibited. Users are fully responsible for their use of this tool. The creator of Cyb3rtech Tool cannot be held liable for any actions that do not comply with these principles or applicable laws.*
+*🇺🇲 : The **htm_toolkit Tool** is intended solely for ethical and responsible use. Any illegal, malicious, or unauthorized use is strictly prohibited. Users are fully responsible for their actions while using this tool. The creator of **htm_toolkit Tool** cannot be held liable for any actions that violate these principles or applicable laws.*
 
-## > ⚖️  Droits d'auteur
-MIT License © 2024 Cyb3rtech Tool. See LICENSE file for details.
+## > ⚖️ License
+This project is licensed under the **MIT License** © 2024. For more details, please refer to the LICENSE file.
 
 ### Created by:
-- **Vishal Arora**  
+- **Vishal Arora**
 - **Atish Chand**
 
 
