@@ -1,5 +1,8 @@
 <!-- Animated Rain Background -->
-
+<div>
+  
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+</div>
 
 <h1 align="center">
   👋 Hi there, I’m <span style="color:#00ffff;">Vishal Kumar</span>
