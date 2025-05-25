@@ -1,7 +1,5 @@
 <!-- Animated Rain Background -->
-<p align="center">
-  <img src="https://i.gifer.com/7scn.gif" width="100%" alt="rain animation">
-</p>
+
 
 <h1 align="center">
   👋 Hi there, I’m <span style="color:#00ffff;">Vishal Kumar</span>
