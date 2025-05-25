@@ -1,8 +1,7 @@
-<!-- Animated Rain Background -->
-<div>
-  
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
-</div>
+<!-- Animated Rain Effect GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+</p>
 
 <h1 align="center">
   👋 Hi there, I’m <span style="color:#00ffff;">Vishal Kumar</span>
@@ -60,7 +59,7 @@
 > 🧠 “Hacking is not just a skill—it's an art. And I believe in securing the digital world, one bug at a time.”  
 > — *Vishal Kumar*
 
-<!-- Optional footer -->
+<!-- Footer animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
 </p>
